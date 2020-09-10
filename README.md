@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Official repository of Jinho Ko.
+
 <!--
 **jinho-ko/jinho-ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

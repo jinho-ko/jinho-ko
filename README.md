@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Official repository of Jinho Ko.
+Official repository for **Jinho Ko**.
 
 <!--
 **jinho-ko/jinho-ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
